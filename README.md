@@ -41,35 +41,35 @@ To get started with the OnlySongs project, follow these steps:
 4. Run the application: Connect your device or emulator, and run `flutter run` to launch the OnlySongs website.
    
 
-##Terms and Conditions
+## Terms and Conditions
 
 This repository contains code and other materials that are the property of [Team :- PHEONIX]. All rights reserved.
 
-##Copyright
+## Copyright
 
 You may not use, copy, modify, or distribute any of the code or materials in this repository without the express written permission of our team.
 
-##Legal Action
+## Legal Action
 
 Any unauthorized use of the code or materials in this repository may result in legal action, including but not limited to copyright infringement, trademark infringement, and unfair competition.
 
-##Jurisdiction
+## Jurisdiction
 
 All legal actions arising out of or relating to this repository will be brought in the courts of Chennai, India, and you hereby consent to the exclusive jurisdiction of such courts.
 
-##Contact Information
+## Contact Information
 
 If you have any questions about these terms and conditions, please contact [Siva Bala Krishna Chowdary Chadalawada] at [sivachadalawad0310@gmail.com]. 
 
-##Disclaimer
+## Disclaimer
 
 The code and materials in this repository are provided "as is" and without warranty of any kind, express or implied. In no event shall be liable for any damages whatsoever arising out of or in connection with the use of this code or materials. 
 
-##Use of the Code and Materials
+## Use of the Code and Materials
 
 The code and materials in this repository may be used for personal or educational purposes only. Any commercial use of the code or materials is prohibited without the express written permission of [Siva Bala Krishna Chowdary Chadalawada]. 
 
-##Attribution
+## Attribution
 
 If you use the code or materials in this repository, you must give credit to [Team :- PHEONIX] by including a link to this repository in your work. 
 
