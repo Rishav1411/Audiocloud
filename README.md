@@ -10,29 +10,6 @@ The OnlySongs website is built using the following technologies:
 
 - **Flutter**: Flutter is an open-source UI framework developed by Google. It allows developers to create beautiful and responsive cross-platform applications. OnlySongs leverages Flutter for building the user interface of the website.
 
-## Project Structure
-
-The repository is structured as follows:
-
-```
-OnlySongs/
-├── README.md
-├── current_song.dart
-├── main.dart
-├── my_home_contents.dart
-└── pubspec.yaml
-```
-
-
-- **main.dart**: The entry point of the Flutter application, which sets up the initial screen and runs the app.
-
-- **current_song.dart**: This file contains the instructions about how to handle users requests when the user tries to play songs.
-
-- **my_home_contents.dart**: This file contains the basic information about the home page of the website.
-
-- **pubspec.yaml**: The configuration file for managing project dependencies and assets.
-
-
 ## Recommendation Algorithm
 
 OnlySongs incorporates a recommendation algorithm that suggests music and artists for users to follow based on their preferences and usage patterns. Here's an overview of how the recommendation algorithm works:
