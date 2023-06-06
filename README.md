@@ -16,35 +16,22 @@ The repository is structured as follows:
 
 ```
 OnlySongs/
-├── lib/
-│   ├── models/
-│   ├── screens/
-│   ├── services/
-│   ├── utils/
-│   └── main.dart
-├── assets/
-├── pubspec.yaml
-├── firebase.json
-└── README.md
+├── README.md
+├── current_song.dart
+├── main.dart
+├── my_home_contents.dart
+└── pubspec.yaml
 ```
 
-- **lib/**: This directory contains the source code of the OnlySongs website.
 
-  - **models/**: This directory holds the data models used in the application, such as User, Artwork, and Recommendation.
+- **main.dart**: The entry point of the Flutter application, which sets up the initial screen and runs the app.
 
-  - **screens/**: Here, you'll find the different screens of the website, including Home, Explore, Profile, and Authentication screens.
+- **current_song.dart**: This file contains the instructions about how to handle users requests when the user tries to play songs.
 
-  - **services/**: This directory contains the Firebase service files responsible for handling authentication, database operations, and recommendation algorithm.
-
-  - **utils/**: Utility files used throughout the project, such as constants, helper functions, and custom widgets.
-
-  - **main.dart**: The entry point of the Flutter application, which sets up the initial screen and runs the app.
-
-- **assets/**: This directory contains static assets, such as images and fonts, used in the OnlySongs website.
+- **my_home_contents.dart**: This file contains the basic information about the home page of the website.
 
 - **pubspec.yaml**: The configuration file for managing project dependencies and assets.
 
-- **firebase.json**: Firebase hosting configuration file.
 
 ## Recommendation Algorithm
 
@@ -75,21 +62,40 @@ To get started with the OnlySongs project, follow these steps:
  your Firebase project and obtain the necessary credentials (Firebase configuration files). Place these files in the appropriate locations as instructed by Firebase documentation.
 
 4. Run the application: Connect your device or emulator, and run `flutter run` to launch the OnlySongs website.
+   
 
-Feel free to explore the code, make modifications, and contribute to the OnlySongs project!
+##Terms and Conditions
 
-## License
+This repository contains code and other materials that are the property of [Team :- PHEONIX]. All rights reserved.
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+##Copyright
 
-## Contributing
+You may not use, copy, modify, or distribute any of the code or materials in this repository without the express written permission of our team.
 
-Contributions to the OnlySongs project are welcome! If you find any bugs, want to add new features, or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+##Legal Action
 
-We appreciate your interest in the OnlySongs project and look forward to your contributions!
+Any unauthorized use of the code or materials in this repository may result in legal action, including but not limited to copyright infringement, trademark infringement, and unfair competition.
 
-## Contact
+##Jurisdiction
 
-If you have any questions or need further assistance, you can reach us at onlysongs@example.com.
+All legal actions arising out of or relating to this repository will be brought in the courts of Chennai, India, and you hereby consent to the exclusive jurisdiction of such courts.
 
-Happy sharing and connecting on OnlySongs!
+##Contact Information
+
+If you have any questions about these terms and conditions, please contact [Siva Bala Krishna Chowdary Chadalawada] at [sivachadalawad0310@gmail.com]. 
+
+##Disclaimer
+
+The code and materials in this repository are provided "as is" and without warranty of any kind, express or implied. In no event shall be liable for any damages whatsoever arising out of or in connection with the use of this code or materials. 
+
+##Use of the Code and Materials
+
+The code and materials in this repository may be used for personal or educational purposes only. Any commercial use of the code or materials is prohibited without the express written permission of [Siva Bala Krishna Chowdary Chadalawada]. 
+
+##Attribution
+
+If you use the code or materials in this repository, you must give credit to [Team :- PHEONIX] by including a link to this repository in your work. 
+
+##Updates
+
+[Team :- PHEONIX] reserves the right to update these terms and conditions at any time. By using the code or materials in this repository, you agree to be bound by the terms and conditions in effect at the time of your use.
