@@ -73,6 +73,6 @@ The code and materials in this repository may be used for personal or educationa
 
 If you use the code or materials in this repository, you must give credit to [Team :- PHEONIX] by including a link to this repository in your work. 
 
-##Updates
+## Updates
 
 [Team :- PHEONIX] reserves the right to update these terms and conditions at any time. By using the code or materials in this repository, you agree to be bound by the terms and conditions in effect at the time of your use.
