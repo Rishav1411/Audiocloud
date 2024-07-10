@@ -1,4 +1,4 @@
-# OnlySongs
+# Audiocloud
 
 Welcome to the OnlySongs repository! OnlySongs is a website designed to provide a platform for musicians and artists to share their artworks and engage with their audiences. This readme file will guide you through the project structure, technologies used, and how the recommendation algorithm works.
 
